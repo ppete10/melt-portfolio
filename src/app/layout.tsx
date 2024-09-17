@@ -14,8 +14,8 @@ const calistoga = Calistoga({
 });
 
 export const metadata: Metadata = {
-  title: "My Portfolio",
-  description: "Created with the help of Frontend Tribe",
+  title: "Melt Portfolio",
+  description: "A portfolio website built with Melt",
 };
 
 export default function RootLayout({
